@@ -39,7 +39,7 @@ class stiki_widget extends WP_Widget
     {
         extract( $args );
         echo $before_widget;
-        echo '<div class="stikishare" locId="' . $instance['stiki_id'] . '" locName="" imageType="' . $instance['stiki_type'] . '" ></div>';
+        echo '<div size="" class="stikishare" locId="' . $instance['stiki_id'] . '" imageType="' . $instance['stiki_type'] . '" ></div>';
         echo $after_widget;
     }
     
