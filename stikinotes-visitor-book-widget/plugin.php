@@ -3,7 +3,7 @@
 /*
 Plugin Name: Stikinotes Widget
 Plugin URI: http://www.stikinotes.com
-Description: Plugin to display a Stikinotes widget on your wordpress website.
+Description: Plugin to display a Stikinotes widget on your wordpress website. Stikinotes is the Global Visitor book, allowing your customers to post reviews and pictures directly to your visitor book from their mobile phones. See www.stikinotes.com/business.aspx for more information.
 Version: 1.0
 Author: Gareth Chidgey, Ahoy Creative
 Author URI: http://www.ahoycreative.co.uk
