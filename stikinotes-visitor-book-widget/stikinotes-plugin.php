@@ -4,7 +4,7 @@
 Plugin Name: Stikinotes Widget
 Plugin URI: http://www.stikinotes.com
 Description: Plugin to display a Stikinotes widget on your wordpress website.
-Version: 1.1
+Version: 1.2
 Author: Gareth Chidgey, Ahoy Creative
 Author URI: http://www.ahoycreative.co.uk
 License: GPL2
